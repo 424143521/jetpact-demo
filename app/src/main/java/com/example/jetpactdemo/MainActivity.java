@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         View view = findViewById(R.id.button2);
         View view2 = findViewById(R.id.button3);
-        ImageView view22 = findViewById(R.id.imageView);
+
     }
 }
